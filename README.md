@@ -1,7 +1,7 @@
 
 <div align="center">
 <img
-  width="40" src="https://th.bing.com/th/id/R.a276e8e991c9e6291f56f1eac258ead7?rik=ON9ZM8zUMkFaKg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fecM%2f7d4%2fecM7d46zi.gif&ehk=5tSz0EDCL%2bwjiDGGeBoabAF10h%2fHIF3Ia%2b7q5tjsvQo%3d&risl=&pid=ImgRaw&r=0" align="center" style="width: 10%" />
+  width="40" src="https://th.bing.com/th/id/R.a276e8e991c9e6291f56f1eac258ead7?rik=ON9ZM8zUMkFaKg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fecM%2f7d4%2fecM7d46zi.gif&ehk=5tSz0EDCL%2bwjiDGGeBoabAF10h%2fHIF3Ia%2b7q5tjsvQo%3d&risl=&pid=ImgRaw&r=0" align="center" style="width: 15%" />
 </div>  
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
   
