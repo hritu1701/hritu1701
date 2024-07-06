@@ -6,16 +6,16 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
   
 
-### <div align="center">Hi 👋, I'm Hritu Raj, an aspiring Data Scientist  from India💻🐱‍👤</div>  
+### <div align="center">Hi 👋, I'm Hritu Raj, an aspiring SwiftDeveloper  from India💻🐱‍👤</div>  
   
 
 - 🔭 I’m currently Pursuing CSE at **LPU**  
   
 
-- 🌱I’m currently learning  **Object oriented Programming** in **C++**  
+- 🌱I’m currently learning  **native iOS Development** in **Swift**  
   
 
-- 💬 Ask me about **C++ and DSA**  
+- 💬 Ask me about **iOS development and Data Structures**  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
