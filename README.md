@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=800&color=0071E3&center=true&vCenter=true&width=560&lines=iOS+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Swift+%C2%B7+SwiftUI+%C2%B7+Concurrency;Shipping+apps%2C+not+side+projects;Yes%2C+I+use+tabs+over+spaces." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=800&color=0071E3&center=true&vCenter=true&width=560&lines=iOS+Developer+from+India+🇮🇳
+      ;Swift+%C2%B7+SwiftUI+%C2%B7+Concurrency;Shipping+apps%2C+not+side+projects;Yes%2C+I+use+tabs+over+spaces." alt="Typing SVG" />
   </a>
 </p>
 
