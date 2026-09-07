@@ -1,112 +1,78 @@
+<h1 align="center">Hi, I'm Hritu Raj 👋</h1>
 
-<div align="center">
-<img
-  width="40" src="https://th.bing.com/th/id/R.a276e8e991c9e6291f56f1eac258ead7?rik=ON9ZM8zUMkFaKg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2fecM%2f7d4%2fecM7d46zi.gif&ehk=5tSz0EDCL%2bwjiDGGeBoabAF10h%2fHIF3Ia%2b7q5tjsvQo%3d&risl=&pid=ImgRaw&r=0" align="center" style="width: 15%" />
-</div>  
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-  
+<p align="center">
+  <a href="https://www.swift.org/"><img src="https://img.shields.io/badge/iOS%20Developer-Swift%20%C2%B7%20SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" alt="iOS Developer" /></a>
+  <a href="https://www.lpu.in/"><img src="https://img.shields.io/badge/CSE%20@-LPU-1f2328?style=flat-square" alt="LPU" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-1f2328?style=flat-square" alt="India" />
+  <img src="https://komarev.com/ghpvc/?username=hritu1701&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-### <div align="center">Hi 👋, I'm Hritu Raj, an aspiring swiftdev from India💻</div>  
-  
+<p align="center">
+  Native iOS developer from India, building apps in Swift &amp; SwiftUI.
+</p>
 
-- 🔭 I’m currently Pursuing CSE at **LPU**  
-  
+---
 
-- 🌱I’m currently learning  **native iOS Development** in **Swift**  
-  
+### About me
 
-- 💬 Ask me about **iOS development and Data Structures**  
-  
+```swift
+struct HrituRaj: Developer {
+    let role       = "Aspiring iOS Developer"
+    let education  = "B.Tech CSE @ LPU"
+    let learning   = ["Swift Concurrency", "SwiftUI", "App Architecture"]
+    let askMeAbout = ["iOS Development", "Data Structures & Algorithms"]
+    let funFact    = "I use tabs over spaces."
+}
+```
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🔭 Currently pursuing **CSE at LPU**
+- 🌱 Currently going deep on **native iOS development** in **Swift**
+- 💬 Ask me about **iOS development** and **data structures**
+- ⚡ Fun fact: I use **tabs over spaces**
 
-<br/>  
+---
 
+### Tech stack
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**Languages**
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Frameworks &amp; tools**
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</td><td valign="top" width="33%">
+---
 
+### GitHub stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hritu1701&show_icons=true&count_private=true&hide_border=true&title_color=0071E3&icon_color=0071E3" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritu1701&layout=compact&hide_border=true&title_color=0071E3" alt="Top languages" />
+</p>
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+### Latest blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+---
 
-### iOS  
-<div align="center">  
-<a href="https://www.swift.org/" target="_blank"><img style="margin: 10px" src="https://developer.apple.com/swift/images/swift-og.png" alt="Swift" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### Connect
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/hritu1701" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/hritu1701" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/hrituraj1025" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/hritu1701" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hritu1701&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hritu1701&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/hritu1701" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
+<p align="center">
+  <a href="https://linkedin.com/in/hrituraj1025"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/hritu1701"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/hritu1701"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/hritu1701"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.buymeacoffee.com/hritu1701"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+</p>
