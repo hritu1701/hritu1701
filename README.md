@@ -63,7 +63,7 @@ I'm a final-year **B.Tech CSE** student at Lovely Professional University and an
 ### 🧊 My Contributions in 3D
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="90%">
 </p>
 
 ---
